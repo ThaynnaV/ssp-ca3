@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<brand>
+    <name>Vieira's Jewellery 💎</name>
+    <menu>
+        <category name="Rings">
+            <product>
+                <listing>Promisse Rings</listing>
+                <price>1200.00</price>
+                <size>48</size>
+                <size>50</size>
+                <size>52</size>
+                <size>54</size>
+                <colors>Gold</colors>
+                <colors>Silver</colors>
+                <colors>Rose Gold</colors>
+            </product>
+            <product>
+                <listing>Heart Solitaire Ring</listing>
+                <price>300.00</price>
+                <size>48</size>
+                <size>50</size>
+                <size>52</size>
+                <size>54</size>
+                <colors>Gold</colors>
+                <colors>Silver</colors>
+                <colors>Rose Gold</colors>
+            </product>
+            <product>
+                <listing>Birthstone Ring</listing>
+                <price>250.00</price>
+                <size>48</size>
+                <size>50</size>
+                <size>52</size>
+                <size>54</size>
+                <colors>Gold</colors>
+                <colors>Silver</colors>
+                <colors>Rose Gold</colors>
+            </product>
+            <category name="Earrings">
+                <product>
+                    <listing>Hoop Earrings</listing>
+                    <price>100.00</price>
+                    <colors>Gold</colors>
+                    <colors>Silver</colors>
+                    <colors>Rose Gold</colors>
+                </product>
+                <product>
+                    <listing>Stud Earrings</listing>
+                    <price>90.00</price>
+                    <colors>Gold</colors>
+                    <colors>Silver</colors>
+                    <colors>Rose Gold</colors>
+                </product>
+                <product>
+                    <listing>Link Earrings</listing>
+                    <price>100.00</price>
+                    <colors>Gold</colors>
+                    <colors>Silver</colors>
+                    <colors>Rose Gold</colors>
+                </product>
+            </category>
+            <category name="Necklaces">
+                <product>
+                    <listing>Chain Necklace</listing>
+                    <price>300.00</price>
+                    <size>45 cm</size>
+                    <colors>Gold</colors>
+                    <colors>Silver</colors>
+                    <colors>Rose Gold</colors>
+                </product>
+                <product>
+                    <listing>Curb Chain Necklace</listing>
+                    <price>279.00</price>
+                    <size>45 cm</size>
+                    <size>50 cm</size>
+                    <colors>Gold</colors>
+                    <colors>Silver</colors>
+                    <colors>Rose Gold</colors>
+                </product>
+                <product>
+                    <listing>Link Chain Necklace</listing>
+                    <price>250.00</price>
+                    <size>45 cm</size>
+                    <colors>Gold</colors>
+                    <colors>Silver</colors>
+                    <colors>Rose Gold</colors>
+                </product>
+            </category>
+        </menu>
+    </brand>
