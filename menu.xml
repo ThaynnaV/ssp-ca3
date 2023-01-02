@@ -5,7 +5,7 @@
         <category name="Rings">
             <product>
                 <listing>Promisse Rings</listing>
-                <price>1200.00</price>
+                <price>1200.00 €</price>
                 <size>48</size>
                 <size>50</size>
                 <size>52</size>
@@ -16,7 +16,7 @@
             </product>
             <product>
                 <listing>Heart Solitaire Ring</listing>
-                <price>300.00</price>
+                <price>300.00 €</price>
                 <size>48</size>
                 <size>50</size>
                 <size>52</size>
@@ -27,7 +27,7 @@
             </product>
             <product>
                 <listing>Birthstone Ring</listing>
-                <price>250.00</price>
+                <price>250.00 €</price>
                 <size>48</size>
                 <size>50</size>
                 <size>52</size>
@@ -40,21 +40,21 @@
         <category name="Earrings">
             <product>
                 <listing>Hoop Earrings</listing>
-                <price>100.00</price>
+                <price>100.00 €</price>
                 <colors>Gold</colors>
                 <colors>Silver</colors>
                 <colors>Rose Gold</colors>
             </product>
             <product>
                 <listing>Stud Earrings</listing>
-                <price>90.00</price>
+                <price>90.00 €</price>
                 <colors>Gold</colors>
                 <colors>Silver</colors>
                 <colors>Rose Gold</colors>
             </product>
             <product>
                 <listing>Link Earrings</listing>
-                <price>100.00</price>
+                <price>100.00 €</price>
                 <colors>Gold</colors>
                 <colors>Silver</colors>
                 <colors>Rose Gold</colors>
@@ -63,7 +63,7 @@
         <category name="Necklaces">
             <product>
                 <listing>Chain Necklace</listing>
-                <price>300.00</price>
+                <price>300.00 €</price>
                 <size>45 cm</size>
                 <colors>Gold</colors>
                 <colors>Silver</colors>
@@ -71,7 +71,7 @@
             </product>
             <product>
                 <listing>Curb Chain Necklace</listing>
-                <price>279.00</price>
+                <price>279.00 €</price>
                 <size>45 cm</size>
                 <size>50 cm</size>
                 <colors>Gold</colors>
@@ -80,7 +80,7 @@
             </product>
             <product>
                 <listing>Link Chain Necklace</listing>
-                <price>250.00</price>
+                <price>250.00 €</price>
                 <size>45 cm</size>
                 <colors>Gold</colors>
                 <colors>Silver</colors>
@@ -90,7 +90,7 @@
         <category name="Bracelets">
             <product>
                 <listing>Mesh Bracelet</listing>
-                <price>100.00</price>
+                <price>100.00 €</price>
                 <size>16 cm</size>
                 <size>17 cm</size>
                 <size>18 cm</size>
@@ -101,7 +101,7 @@
             </product>
             <product>
                 <listing>Black Leather Bracelet</listing>
-                <price>95.00</price>
+                <price>95.00 €</price>
                 <size>16 cm</size>
                 <size>17 cm</size>
                 <size>18 cm</size>
@@ -112,7 +112,7 @@
             </product>
             <product>
                 <listing>Link Chain Bracelet</listing>
-                <price>150.00</price>
+                <price>150.00 €</price>
                 <size>16 cm</size>
                 <size>17 cm</size>
                 <size>18 cm</size>
