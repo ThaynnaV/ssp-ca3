@@ -87,5 +87,40 @@
                 <colors>Rose Gold</colors>
             </product>
         </category>
+        <category name="Bracelets">
+            <product>
+                <listing>Mesh Bracelet</listing>
+                <price>100.00</price>
+                <size>16 cm</size>
+                <size>17 cm</size>
+                <size>18 cm</size>
+                <size>19 cm</size>
+                <colors>Gold</colors>
+                <colors>Silver</colors>
+                <colors>Rose Gold</colors>
+            </product>
+            <product>
+                <listing>Black Leather Bracelet</listing>
+                <price>95.00</price>
+                <size>16 cm</size>
+                <size>17 cm</size>
+                <size>18 cm</size>
+                <size>19 cm</size>
+                <colors>Gold</colors>
+                <colors>Silver</colors>
+                <colors>Rose Gold</colors>
+            </product>
+            <product>
+                <listing>Link Chain Bracelet</listing>
+                <price>150.00</price>
+                <size>16 cm</size>
+                <size>17 cm</size>
+                <size>18 cm</size>
+                <size>19 cm</size>
+                <colors>Gold</colors>
+                <colors>Silver</colors>
+                <colors>Rose Gold</colors>
+            </product>
+        </category>
     </menu>
 </brand>

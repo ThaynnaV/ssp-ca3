@@ -5,24 +5,36 @@ body {
 
 table {
     width:100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
 
 table, th, td {
     border-collapse: collapse;
-    border: 1px solid #b8bec5;
+    border: 1px solid #111133;
     padding: 0.5rem;
 }
 
 td, th {
     text-align: left;
+    background-color: #eaeff8;
+
 }
 
 td:nth-child(1), td:nth-child(3){
     text-align: center;
+    background-color: #eaeff8;
 }
 
 th {
+    text-align: center;
     font-weight: bold;
+    background-color: #b9c8e9;
+
 }
 
 .selected {
