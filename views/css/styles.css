@@ -60,7 +60,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #212529;
+  --bs-body-color: #222129;
   --bs-body-bg: #fff;
 }
 
@@ -235,11 +235,11 @@ sup {
 }
 
 a {
-  color: #0d6efd;
+  color: #b90dfd;
   text-decoration: underline;
 }
 a:hover {
-  color: #0a58ca;
+  color: #ba0aca;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {

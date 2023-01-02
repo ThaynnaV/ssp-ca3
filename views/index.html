@@ -10,10 +10,13 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/style.css" rel="stylesheet" />
+        <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+        <script src="js/table.js"></script>
     </head>
     <body>
         <!-- Responsive navbar-->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav style="background-color: #1098f2" class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container">
                 <a class="navbar-brand" href="#">Vieira's Jewels 💎</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -40,6 +43,28 @@
                 <h1>Discover a world of jewellery</h1>
                 <p class="lead">The perfect gift this season 🎁</p>
                 <p></p>
+            </div>
+            <div class="row">
+                <div id="menu" class="col-lg-4 mb-5 order-1">
+                    <form enctype="application/json" action="/post/json" method="post">
+                        <div class="form-group">
+                            <select class="form-select" name="sec_n">
+                                <option value="0">Rings</option>
+                                <option value="1">Earrings</option>
+                                <option value="2">Necklaces</option>
+                            </select>
+                            <input class="form-control mt-3" type="text" name="listing" placeholder="Listing">
+                            <input class="form-control mt-3" type="text" name="price" placeholder="Price">
+                            <div class="d-grid gap-2 mt-3">
+                                <button type="submit" class="btn btn-primary btn-block">Check it now</button>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="d-grid gap-2">
+                        <button id="delete" class="btn btn-danger btn-block mt-3">Start Again</button>
+                    </div>
+                </div>
+                <div id="results" class="col-lg-8 mb-5 order-2"></div>
             </div>
         </div>
         <!-- Bootstrap core JS-->
